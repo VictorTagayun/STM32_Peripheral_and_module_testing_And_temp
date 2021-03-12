@@ -1,0 +1,1 @@
+## HRTIM will trigger ADC by Regular and Injected conversion and Interrupt by ADC
